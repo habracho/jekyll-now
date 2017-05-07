@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 [habracho@gmail.com](mailto:habracho@gmail.com)
 
-$$f(x) = x^2$$
+$f(x) = x^2$
