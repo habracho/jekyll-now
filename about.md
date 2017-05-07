@@ -12,6 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:habracho@gmail.com)
+[habracho@gmail.com](mailto:habracho@gmail.com)
 
 $$f(x) = x^2$$
